@@ -5,7 +5,6 @@ This project analyzes global COVID-19 data using SQL. The goal is to explore inf
 
 Tools Used
 MySQL
-SQL
 COVID-19 Dataset
 Key Analysis
 Total cases vs total deaths
@@ -22,8 +21,7 @@ Window Functions
 Aggregate Functions
 Views
 Dataset Source
-
-Our World in Data COVID-19 Dataset
+•	Performed SQL EDA on a 1M+ row Covid-19 dataset — uncovered vaccination vs. mortality trends across 50+ countries using CTEs and window functions.
 
 Author
 Hiten Shah
